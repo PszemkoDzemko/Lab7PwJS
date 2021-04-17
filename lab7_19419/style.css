@@ -1,0 +1,118 @@
+#nagl
+{
+    font-family: 'Bangers', cursive;
+    color: rgb(145, 145, 145);
+}
+
+.navbar-inverse .nav li a .glyphicon 
+{
+    color: #727272;
+} 
+
+#ciao
+{
+    font-size:18px; 
+    color:#727272; 
+    background:#000000;
+    font-family: 'Baloo Chettan', cursive;
+}
+
+.navbar 
+{
+        margin-bottom: 0;
+        border-radius: 0;
+}
+
+#srodek
+{
+    margin: auto;
+}
+
+.row.content 
+{
+    height: 400px;
+}
+    
+.sidenav
+{
+    padding-top: 5%;
+    padding-bottom: 2%;
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+footer
+{
+    color: white;
+    padding: 15px;
+}
+
+@media screen and (max-width: 767px)
+{
+    .sidenav
+    {
+        height: auto;
+    }
+    .row.content {height:auto;} 
+}
+
+#logo
+{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+
+    top:10px;
+    left:4%;
+
+}
+
+#logo img
+{
+    max-height:30px;
+}
+
+.carousel-caption
+{
+    color: white;
+    font-weight: 900;
+}
+
+#ikonaduza
+{
+    color: #11217a;
+}
+#reklama{
+    background-color: #272727;
+}
+#galeria
+{
+    height: 200px;
+    width: 300px;
+}
+.navbar-inverse .nav li a .glyphicon {
+    color:rgb(161, 161, 161);
+}
+
+.alert-danger {
+    background-color: black;
+}
+
+#main-page{
+    background-color: #5c5c5c;
+    border: none;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+}
+
+td {
+    border: 1px solid #dddddd;
+}
+
+tr:nth-child(even), tr:nth-child(1) {
+    background-color: #222222;
+}
